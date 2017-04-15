@@ -1,2 +1,2 @@
 # firsttry
-get staddy
+get study
